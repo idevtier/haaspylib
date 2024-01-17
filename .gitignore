@@ -1,0 +1,4 @@
+/target
+.venv
+**__pycache__**
+haaspylib/haaspylib.cpython-311-x86_64-linux-gnu.so
